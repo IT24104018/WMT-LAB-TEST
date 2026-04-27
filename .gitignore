@@ -1,0 +1,8 @@
+# Root-level local files (outside the actual app folder)
+node_modules/
+package-lock.json
+package.json
+
+# Sensitive files
+.env
+**/.env
